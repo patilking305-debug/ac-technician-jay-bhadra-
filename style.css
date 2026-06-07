@@ -1,0 +1,53 @@
+# Query: 
+# ContextLines: 1
+
+body {
+    background-color: lightblue;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin;0;
+    padding:0;
+
+}
+
+h1 {
+   background-color: orangered;
+   color: white;
+   padding: 20px;
+   margin: 0;
+}
+
+p {
+    font-size: 22px;
+}
+button{
+       background-color:green;
+    color:white;
+    padding:12px 25px;
+    border:none;
+    border-radius:5px;
+    margin:10px;
+    cursor:pointer;
+
+}
+img{
+    margin:15px;
+    border-radius: 10px;
+    width:80%;
+    max-width: 300px;
+    height: auto;
+    margin-top: 20px;
+}h2{
+    color: #0077cc;
+    margin-top: 30px;
+}
+
+.service{
+    border: 1px solid #ddd;
+    margin: 15px auto;
+    padding: 15px;
+    width: 80%;
+    max-width: 500px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
